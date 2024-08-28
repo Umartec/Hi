@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187505999977",
+    "project_id": "alaska-8d5dc",
+    "storage_bucket": "alaska-8d5dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187505999977:android:4cc92122cd211e024f62f8",
+        "android_client_info": {
+          "package_name": "com.alaska"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187505999977-grs99sqg5mrnqn2qlkl94i95a5vtqkd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjCPDjBFGZXQo6nAyiyDcBv-sIwLOmkgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187505999977-grs99sqg5mrnqn2qlkl94i95a5vtqkd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

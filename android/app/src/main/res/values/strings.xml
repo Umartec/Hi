@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alaska</string>
+
+<string name="facebook_app_id"> 853066829771642</string>
+<string name="fb_login_protocol_scheme">fb 853066829771642</string>
+<string name="facebook_client_token">984f48b76cf871fcf26903c3e76d23cb</string>
+
+
+<string name="default_web_client_id">187505999977-grs99sqg5mrnqn2qlkl94i95a5vtqkd9.apps.googleusercontent.com</string>
+
+</resources>
